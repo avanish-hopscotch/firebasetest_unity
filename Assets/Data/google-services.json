@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701163500584",
+    "firebase_url": "https://health-game-c22a1.firebaseio.com",
+    "project_id": "health-game-c22a1",
+    "storage_bucket": "health-game-c22a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701163500584:android:15a0d5335314c38806311d",
+        "android_client_info": {
+          "package_name": "com.hopscotch.healthgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701163500584-9g8vocm0icinro3ljijht4c154vkpil3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVG-S4ZFj1BnEMPv27igZ0JSKr7GGhoX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701163500584-9g8vocm0icinro3ljijht4c154vkpil3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
